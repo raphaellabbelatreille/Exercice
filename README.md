@@ -31,21 +31,24 @@ Pour vous guider dans le choix des balises, des attributs et des valeurs d'attri
 Pour chacune des pages ci-dessous, les textes alternatifs sont-ils adéquats ?Commenter votre observation. Pourrait-on faire mieux ? Donnez un exemple de ce que vous proposeriez.
 
 - https://www.sail.ca/fr/chaussures/junior/multi-sport-et-plein-air 
- Même si les chausures ne peuvent pas être mieux décrit que cela, il n'y a rien d'autre avec un alt="". Il y a notament une icone qui sert à ce rendre au panier et une autre pour ce connecter. Dans les deux cas, il n'y a aucune description de donné.
  
+ Même si les chausures ne peuvent pas être mieux décrit que cela, il n'y a rien d'autre avec un alt="". Il y a notament une icone qui sert à ce rendre au panier et une autre pour ce connecter. Dans les deux cas, il n'y a aucune description de donné.
  Pour commencer, je rajouterais un alt pour expliquer que cette icon est pour le panier. Sinon, 
 [capture-écran](images/1-textes-alternatifs/1-2/screencapture-sail-ca-fr-chaussures-enfant-chaussures-de-sport-2023-02-24-13_38_04.png)
+
 - https://amzn.to/2NnbKPN 
+
 Étonament, les scores d'étoiles de tout les produits ne possèdent pas d'alt mais un petit score en chiffre est déjà placés. Les alts des vélos sont beaucoup plus précis que ceux du site Sail, mais cela s'arête là. La petite announce accroché à la bannière ne stipule que "Prime Video", ce qui n'est pas super clair.
-
-
 [capture-écran](images/1-textes-alternatifs/1-2/screencapture-amazon-ca-fr-s-2023-02-24-13_45_42.png)
-- https://www.lesoleil.com/  
-Selon moi, les images ne rajoutent pas tant que cela à la compréhension de la nouvelle. Par contre, il me semble inutiles pour les alts des images de tous simplement répétés le titre de la nouvelle ou du boutons auxquelles ils sont raccrochés. 
 
+- https://www.lesoleil.com/  
+
+Selon moi, les images ne rajoutent pas tant que cela à la compréhension de la nouvelle. Par contre, il me semble inutiles pour les alts des images de tous simplement répétés le titre de la nouvelle ou du boutons auxquelles ils sont raccrochés. 
 Il pourrait tout simplement mettre les alt vident dans ce cas si à moins qu'ils contiennent une donnée plutôt important comme un tableau ou autre.
 [capture-écran](images/1-textes-alternatifs/1-2/screencapture-lesoleil-2023-02-24-13_58_36.png)
+
 - https://www.rad.ca/  
+
 Je ne vois absolument aucun alt. La section qui en souffre le plus doit être la grande images dans l'entête. Comme le texte lisible est dans l'image, la désactivation des images la fait disparaitre entièrement. Il devient alors impossible de savoir c'est quoi.
 Je ne ferais que séparé le texte de cette image de la même manière que les autres nouvelles et de rajouté un alt résumant chaque image qui ne sont pas raccroché à un titre.
 [capture-écran](images/1-textes-alternatifs/1-2/screencapture-rad-ca-2023-02-24-14_05_14.png)
