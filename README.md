@@ -77,6 +77,8 @@ D’après les captures-écrans que vous trouverez dans le dossier [images/3-tab
 
 Sinon, expliquez le problème en vous basant sur les règles de base énoncées dans les notes de cours. 
 
+La première capture présente des h1 et h2 mal mit. Par exemple, le seul H1 de celui si semble avoir 4 sous titres alors que seulement un semble lui appartenir. Il faudrait que chaque H qui semble être un titre soit au même niveau.
+La deuxième capture d'écran respecte le modèle établit.
 __Tutoriel sur les formulaires du w3c__  
 [Article](images/3-table-des-matieres_h1-h6/3-1/tuto-form-w3c.pdf)  
 
