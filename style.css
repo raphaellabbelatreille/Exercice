@@ -1,5 +1,6 @@
 :root {
     font-size: 0.5rem;
+    margin-bottom: 1em;
 }
 
 table{
@@ -10,3 +11,7 @@ table{
     border: 1px solid black;
     padding: 10px;
   }
+
+.attention {
+    list-style: none;
+}
