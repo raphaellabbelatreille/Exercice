@@ -66,8 +66,8 @@ documenter le problème par une capture-écran incluant dans son cadre, la zone 
 
 Sauvegarder les captures dans le dossier images. Compléter les liens ci-dessous:
 - [Contraste insuffisant 1](images/2-contrastes-couleurs/Capture%20d%E2%80%99%C3%A9cran%201.png)
-- [Contraste insuffisant 2](images/2-contrastes-couleurs/Capture%20d%E2%80%99%C3%A9cran%20(34).png)
-- [Contraste insuffisant 3](images/2-contrastes-couleurs/Capture%20d%E2%80%99%C3%A9cran%20(35).png)
+- [Contraste insuffisant 2](images/2-contrastes-couleurs/Capture%20d%E2%80%99%C3%A9cran%202.png)
+- [Contraste insuffisant 3](images/2-contrastes-couleurs/Capture%20d%E2%80%99%C3%A9cran%203.png)
 
 ### 3. Structurer avec les h1-h6 une table des matières
 
